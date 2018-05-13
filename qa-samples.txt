@@ -1,0 +1,78 @@
+######################Who question########
+who is George Washington?
+Correct answer:George Washington (1732-99) was commander in chief of the Continental Army during the American Revolutionary War (1775-83) and
+served two terms as the first U.S. president, from 1789 to 1797.
+The son of a prosperous planter, Washington was raised in colonial Virginia.
+
+my system answer: George Washington is an American statesman and soldier who served as the first President of the United States from 1789 to 1797 and was one of the Founding Fathers of the United States.
+
+who is barack obama?
+
+my system answer: Barack obama is an American politician who served as the 44th President of the United States from January 20, 2009 to January 20, 2017.
+
+who is osama bin laden?
+
+my system answer: Osama bin laden is a founder of , the organization responsible for the September 11 attacks in the United States and many other mass-casualty attacks worldwide.
+
+who is donald trump?
+correct answer:New York City real estate developer and reality TV star Donald Trump (1946- ) was elected America's 45th president in November 2016. The billionaire businessman ran as a Republican and scored an upset victory over his Democratic opponent, Hillary Clinton.
+my system answer:Donald trump is the 45th and current President of the United States, in office since January 20, 2017.
+
+who is abraham lincoln?
+my system answer: Abraham lincoln is an American statesman and lawyer who served as the 16th President of the United States from March 1861 until his assassination in April 1865.
+
+####what question##########
+what is greek fire?
+my system answer:Greek fire is an incendiary weapon used by the Eastern Roman Empire that was first developed .
+
+what is football?
+my system answer:Football is a family of team sports that involve, to varying degrees, kicking a ball with a foot to score a goal.
+
+what is cricket?
+my system answer:Cricket is a bat-and-ball game played between two teams of eleven players each on a cricket field, at the centre of which is a rectangular pitch with a target at each end called the wicket (a set of three wooden stumps upon which two bails sit).
+
+what is computer?
+my system answer:Computer is a device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.
+
+what is artificial intelligence?
+correct answer:Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans.
+my system answer:Artificial intelligence is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
+
+#####where question#####
+
+where is bangladesh?
+my system answer:Bangladesh is a country in South Asia.
+
+where is india?
+correct answer:India became an independent state in 1947, after gaining its sovereignty from The United Kingdom. The population of India is 1,205,073,612 (2012) and the nation has a density of 405 people per square kilometer.
+my system answer:India is a navy-blue wheel with 24 spokes.
+
+where is china?
+my system answer:China is a unitary sovereign state in East Asia and the worlds most populous country, with a population of around .
+
+where is parise?
+my system answer: Parise is a surname of Italian origin.
+
+where is new zealand?
+correct answer:Located in the continent of Oceania, New Zealand covers 267,710 square kilometers of land, making it the 76th largest nation in terms of land area.
+my system answer:New zealand is automatically calculated daily at 00:00 | UTC and is based on data obtained from the population clock on the date shown | in the citation.
+
+#######when#######
+when was the first computer invented?
+correct answer:First programmable computer. The Z1 was created by German Konrad Zuse in his parents' living room between 1936 and 1938. It is considered to be the first electro-mechanical binary programmable computer, and the first really functional modern computer
+my system answer:I'm sorry, I don't know.
+
+when is mothers day?
+correct answer:Sunday, May 13 ,2018 is the Mother's Day in United States of America.
+my system answer:Mothers day is a celebration honoring the mother of the family, as well as motherhood, maternal bonds, and the influence of mothers in society.
+
+when is fathers day?
+correct answer:Sunday, june 2018 ,2018 is the Mother's Day in United States of America.
+my system answer:Fathers day is a celebration honoring fathers and celebrating fatherhood, paternal bonds, and the influence of fathers in society.
+
+when is memorial day?
+correct answer:Monday, May 28,2018 is the Memorial Day  in United States of America.
+my system answer:Memorial day is a federal holiday in the United States for remembering the people who died while serving in the countrys armed forces.
+
+when is labor day?
+Labor day is a public holiday celebrated on the first Monday in September.
